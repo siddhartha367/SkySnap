@@ -49,6 +49,5 @@ Open index.html in your browser
 User enters a location
 JavaScript sends a request to WeatherAPI
 API returns hourly forecast data
-
 Data is dynamically converted into weather cards
 CSS styles the output using a dark theme
