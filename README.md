@@ -38,13 +38,6 @@ days=1 – One-day forecast
 aqi=yes – Air quality data
 alerts=yes – Weather alerts
 
-🚀 How to Run the Project
-Download or clone this repository
-git clone https://github.com/your-username/dark-weather.git
-Open the project folder
-Open index.html in your browser
-(No server required)
-
 🧠 How It Works
 User enters a location
 JavaScript sends a request to WeatherAPI
